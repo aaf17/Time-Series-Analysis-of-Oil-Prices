@@ -7,7 +7,7 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
-flask = "==0.12.1"
+flask = "==1.0"
 numpy = "*"
 kaggle = "*"
 pandas = "*"
