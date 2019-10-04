@@ -163,20 +163,4 @@ $py.test ./src/test_all_cases.py
 
 ##  Contributors
 
-Group 5
-
-*   Aafia Jabeen
-
-    pipenv, Makefile, Download the Data, Histogram depicting numerical attributes of Cairn Energy (CNE), ReadMe, Report, Presentation
-
-*   Rabeya Akhter
-
-    Clean the data, Test suite, Report, Presentation, ReadMe
-
-*   Shiplu Das
-
-    Report, Analysis and Plotting - Dot plot (Bokeh), Box plot, Swarm Plot, Bar Chart (Bokeh), Histogram (British Petroleum), Pie Chart
-    
-*   Sanusi Musa
-
-    Plotting - Pie Chart
+   Aafia Jabeen
