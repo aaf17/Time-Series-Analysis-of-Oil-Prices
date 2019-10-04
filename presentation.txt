@@ -1,0 +1,7 @@
+#Presentation
+
+## Presentation repository
+https://gitlab.com/rakhter/rakhter.gitlab.io.git
+
+## Presentation can be seen
+https://rakhter.gitlab.io/#1

@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+flask = "==0.12.1"
+numpy = "*"
+kaggle = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+xlrd = "*"
+bokeh = "*"
+
+[requires]
+python_version = "3.7"
